@@ -11,7 +11,7 @@ print(x, y)
 min, max = 0, 100
 print(min, max)
 
-1 = 10
+i = 10
 j = 20
 tmp = i
 i = j
