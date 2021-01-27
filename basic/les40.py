@@ -14,7 +14,7 @@ class TeslaCar(Car):
     def __init__(self, model='Model s',
                  enable_auto_run=False,
                  password='123'):
-        # self.model = model
+        # self.models = models
         super().__init__(model)
         self.password = password
 
